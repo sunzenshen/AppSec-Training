@@ -22,6 +22,7 @@ An overview of free as well as commercial training and certifications related to
 |[DevOps Institute](https://www.devopsinstitute.com/)|[DevSecOps Foundation<sup>SM</sup>](https://www.devopsinstitute.com/certifications/devsecops-foundation/)|varies|✅<br />($270)|
 |[SecureFlag](https://www.secureflag.com/)|[Labs-based AppSec education platform](https://www.secureflag.com/platform)|🤷|🤷|
 |[Security Journey](https://www.securityjourney.com)|[Labs-based AppSec education platform](https://www.securityjourney.com/appsec-training-library)|🤷|🤷<br />(5 levels)|
+|[SecDim](https://secdim.com/)|[Secure code learning platform](https://secdim.com/learn/)|$20/mo.|🤷<br />|
 ||[DevSecOps Practitioner<sup>SM</sup>](https://www.devopsinstitute.com/certifications/devsecops-practitioner/)|varies|✅<br />($270)|
 |[SECO](https://www.seco-institute.org/)|[Certified Secure Programming Foundation (S-CSPF)](https://www.seco-institute.org/certifications/secure-software-track/foundation/)|varies|✅<br />(included)|
 |[Everable](https://www.everable.com)|[Various courses](https://app.everable.com/courses) (CI/CD, SAST, DAST, IaC...)|🤷|❌|
